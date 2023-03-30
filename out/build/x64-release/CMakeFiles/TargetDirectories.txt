@@ -1,0 +1,3 @@
+C:/Users/aless/Documents/Workspace/C/Goblins-go-brr/out/build/x64-release/CMakeFiles/Goblins-go-brr.dir
+C:/Users/aless/Documents/Workspace/C/Goblins-go-brr/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/aless/Documents/Workspace/C/Goblins-go-brr/out/build/x64-release/CMakeFiles/rebuild_cache.dir
